@@ -27,4 +27,4 @@ Este é um projeto de calculadora desenvolvido para a disciplina de Programaçã
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Vitaedoca/Calculator.git
